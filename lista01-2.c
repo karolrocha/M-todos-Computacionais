@@ -44,3 +44,6 @@ printf ("\n ## Pessoa p2 ## \n nome: %s \n idade: %d\n", &p2.nome, p2.idade );
 
     return 0;
 }
+
+
+// usa-se ponteiros, principalmente, por dois motivos: poupar memória e ter a capacidade de fazer alterações nas variáveis em escopo global. 
